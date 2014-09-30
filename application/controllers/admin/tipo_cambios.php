@@ -23,7 +23,7 @@ class Tipo_cambios extends Private_Controller {
 			$crud->set_theme('direnet');
 			$crud->set_language('spanish');
 			$crud->set_table('tipo_cambios');
-			$crud->set_subject('Tipo cambio');
+			$crud->set_subject('Tipo de cambio');
 			$crud->unset_add();
 			$crud->unset_delete();
 			$crud->unset_export();
